@@ -28,8 +28,8 @@ To handle images and videos in Flutter applications according to device size usi
 ## Output
 The application successfully displays images responsively based on device size.  
 
-
-<img src="./iamge.png" alt="Responsive Image Output" width="300"/>  
+- **Responsive Image Display**  
+<img src="./image.png" alt="Responsive Image Output" width="300"/>  
 
 ---
 
